@@ -12,12 +12,12 @@
   "env": {
       "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "16201672",
         "required": true
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "55f85061314c2c0f6edeec9751b90913",
         "required": true
       },
       "BOT_TOKEN": {
@@ -27,7 +27,7 @@
       },      
       "SUDO": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5342758859",
             "required": true  
       }
     },
