@@ -11,7 +11,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/T5OKING/BANALL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/T5OKING/BanAll)
 
 # Credits
 * [RiZoeL](https://github.com/MrRizoel)
